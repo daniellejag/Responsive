@@ -1,0 +1,12 @@
+// SheCode notes
+// Open your project and Go Live
+//Launch a local development server with live reload
+// Update your links using relative paths
+
+<a href="/">
+  Homepage
+</a>
+
+<a href="/about.html">
+  About
+</a>
